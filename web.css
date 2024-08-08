@@ -1,0 +1,40 @@
+body{
+    font-family: Work Sans;
+    width: 1600px;
+    height: 808px;
+}
+header{
+    background-image: url("images/banner/banner3.png");
+    text-align: right;
+    width: 1600px;
+    height: 808px;
+}
+header h1{
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76px;
+    color: rgb(255, 255, 255);
+}
+header p{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+}
+header button{
+    color: rgb(0, 95, 172);
+    font-size: 20px;
+    font-weight: 600;
+}
+.heading{
+    padding:216px 230px 364px 845px;
+}
+.btn{
+    color: rgb(0, 95, 172);
+    font-size: 20px;
+    font-weight: 600;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    border:0;
+}
