@@ -38,3 +38,48 @@ header button{
     background: rgb(255, 255, 255);
     border:0;
 }
+
+
+/* main */
+.s1{
+    background-image: url("images/person.png");
+    margin:230px 200px 130px 200px;
+    background-repeat: no-repeat;
+}
+.s1-text h1{
+    color: rgb(21, 20, 20);
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0px 128px 24px 0px;
+    margin-bottom: 0px;
+}
+.s1-text>p{
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 0px 10px 0px;
+}
+.s1-text{
+    padding: 230px 0px 90px 600px;
+    margin:auto 0px;
+    width: 416px;
+    height: 400px;
+}
+.inline{
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    align-items: center;
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom:0px;
+    margin-top: 0px;
+    padding-top:0px;
+
+}
+.pp{
+    margin: 0px 0px 8px 0px;
+}
+i{
+    font-display: none;
+}
