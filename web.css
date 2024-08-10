@@ -83,3 +83,17 @@ header button{
 i{
     font-display: none;
 }
+
+
+.s2{
+    margin:0px 200px 200px 200px;
+}
+.myplans{
+    color: rgb(21, 20, 20);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.plans{
+    display:flex;
+}
